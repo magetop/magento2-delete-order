@@ -12,6 +12,7 @@
 - Clean up all relation in database without effect other data.
 - 100% Open-source, Support multi-store, Support multi-language.
 - Easy to install and customize.
+- And many more feature ...
 
 ## More features & Demo
 
