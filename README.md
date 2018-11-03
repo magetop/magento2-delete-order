@@ -5,12 +5,18 @@
 
 ## Highlight features
 
-- Delete mass orders
-- Delete mass invoices
-- Delete mass shipments
-- Delete mass credit memos
-- Ability to delete all
-- Delete related data safely
+- Delete bulk orders from orders list page in backend.
+- Mass Delete Invoices.
+- Mass Delete Shipments.
+- Mass Delete Credit memos.
+- Clean up all relation in database without effect other data.
+- 100% Open-source, Support multi-store, Support multi-language.
+- Easy to install and customize.
+
+## More features & Demo
+
+- Extension details : https://www.magetop.com/magento-2-delete-orders-extension.html
+- Delete Orders Demo : https://magento2.demo.magetop.com/delete-orders/admin
 
 ## Support & Contact info
 
