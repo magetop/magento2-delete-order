@@ -1,6 +1,6 @@
-# Magento 2 Delete Orders free by MageTop
+# Magento 2 Delete Orders free by Magetop
 
-**Magento 2 Delete Orders** by MageTop helps admins completely remove unnecessary orders, invoices, shipments and credit memos which are arised during testing process. This helps simplify order management and get these arranged neater.
+**Magento 2 Delete Orders** by Magetop helps admins completely remove unnecessary orders, invoices, shipments and credit memos which are arised during testing process. This helps simplify order management and get these arranged neater.
 
 
 ## Highlight features
@@ -14,10 +14,10 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-delete-orders-extension.html
-- Delete Orders Demo : https://magento2.demo.magetop.com/delete-orders/admin
+- Delete orders demo : https://magento2.demo.magetop.com/delete-orders/admin
 
 ## Support & Contact info
 
