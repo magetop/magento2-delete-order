@@ -19,7 +19,7 @@
 - Extension details : https://www.magetop.com/magento-2-delete-orders-extension.html
 - Delete orders demo : https://magento2.demo.magetop.com/delete-orders/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
